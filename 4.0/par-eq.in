@@ -1,0 +1,6 @@
+SpType	NBeads	h*	z*	d*	L0*	
+4	20	0.231106	0.0795812	0.602785	3.3809	
+Ntraj	Ntrtot	Nitot	dtspr	ImTol	
+1	10000	30	0.1	0.001	
+Epslam	Maxlam	
+0.3	10
